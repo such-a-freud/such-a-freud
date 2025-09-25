@@ -1,4 +1,10 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/such-a-freud/such-a-freud/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/such-a-freud/such-a-freud/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/such-a-freud/such-a-freud/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <!--
 **such-a-freud/such-a-freud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
